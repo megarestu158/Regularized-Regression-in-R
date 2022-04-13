@@ -1,4 +1,3 @@
-# Description: HW Day 21
 # Author: Mega Restu Utari
 # Date: January 2022
 

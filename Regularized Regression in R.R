@@ -2,7 +2,7 @@
 # Date: January 2022
 
 # import data
-data <- read.csv("boston.csv")
+data <- read.csv("housepricedata.csv")
 
 # SPLIT DATA into 3 parts
 # train - validation - test
